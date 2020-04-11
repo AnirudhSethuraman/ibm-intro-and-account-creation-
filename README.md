@@ -80,8 +80,15 @@ when you join or finish a course you will get  free credit points which can be l
 
 Refer this links :
 
-*https://www.ibm.com/services/learning/
+1. https://www.ibm.com/services/learning/
 
-*https://cognitiveclass.ai/courses
+2. https://cognitiveclass.ai/courses
+
+Click -> login in the first link to start
+
+Click -> signup in 2nd link and use your ibmid to signup .
+
+
+
  
  
