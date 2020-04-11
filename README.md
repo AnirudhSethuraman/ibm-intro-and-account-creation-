@@ -18,7 +18,6 @@ https://cloud.ibm.com/login
 
  3.   When your email address is accepted, enter your:First Name, Last Name, Country or Region, and create a Password.
 
-![](Screenshot 2020-04-11 at 1.40.03 PM.png)
  
  4. If you would like IBM to contact you for any changes to services or new offerings, then check the box to accept the option to be notified by email.
 
