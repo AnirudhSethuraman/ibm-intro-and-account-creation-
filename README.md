@@ -8,7 +8,6 @@ Introduction to IBM Cloud services and how to create a free IBM account
 *https://www.ibm.com/services/learning/
 
 *https://cognitiveclass.ai/courses
-https://cloud.ibm.com/login
 
 # Step 1: 
 ## creating a free IBM cloud account 
@@ -18,6 +17,7 @@ https://cloud.ibm.com/login
 
  3.   When your email address is accepted, enter your:First Name, Last Name, Country or Region, and create a Password.
 
+![](name-password.png)
  
  4. If you would like IBM to contact you for any changes to services or new offerings, then check the box to accept the option to be notified by email.
 
@@ -42,6 +42,19 @@ https://cloud.ibm.com/login
 
 
 :point_right:               Click Log In, and you will be directed to the IBM Cloud Login Page.
+
+
+
+# Step3:
+## Loging into IBM cloud 
+
+1. If not redirected after clicking login in above step . Click this link https://cloud.ibm.com/login
+
+![](Cld_Acct_Lab_-_pic_5.png)
+
+2. Click continue and enter your password 
+
+![](Cld_Acct_Lab_-_pic_6.png	)
 
 
 
