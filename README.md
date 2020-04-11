@@ -65,4 +65,15 @@ Congratulations!  You can now explore the IBM Cloud catalog and provision variou
 
 
 
+# IBM Skill Development 
 
+
+IBM provides manny free couses in skill gatway website and cognitiveclass 
+
+The courses are certifed and have timed exam and the pass percentage of the exam will differ based on the course .
+
+The courses are mainly classifed into basics, medium , advanced.
+
+When you finish the course you will be cetified and receive digital badge of that learing path which can be liked with linkedin , etc .
+
+when you join or finish a course you will get  free credit points which can be linked to your ibm cloud account and used in any of your projects .
