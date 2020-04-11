@@ -1,5 +1,5 @@
-# IBM-intro-and-account-creation
-Introduction to IBM Cloud services and how to create a free IBM account 
+# IBM-intro-to -account-creation
+How to create a free IBM account and Courses by IBM
 
 
 # Important links 
