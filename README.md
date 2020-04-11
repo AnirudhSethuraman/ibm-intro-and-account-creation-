@@ -17,10 +17,12 @@ https://cloud.ibm.com/login
 ![](Cld_Acct_Lab_-_pic_1.png)
 
  3.   When your email address is accepted, enter your:First Name, Last Name, Country or Region, and create a Password.
- ![](Cld_Acct_Lab_-_pic_2.png)
+
+![](Screenshot 2020-04-11 at 1.40.03 PM.png)
  
  4. If you would like IBM to contact you for any changes to services or new offerings, then check the box to accept the option to be notified by email.
- 
+
+![](Cld_Acct_Lab_-_pic_2.png)
  5.Then click  Create Account to create your IBM Cloud account.
 
 
