@@ -61,7 +61,7 @@ Introduction to IBM Cloud services and how to create a free IBM account
 ![](Cld_Acct_Lab_-_pic_6.png	)
 
 
-
+Congratulations!  You can now explore the IBM Cloud catalog and provision various services on cloud. There will be no fee unti you choose any paid service insted of lite service which is totaly free.
 
 
 
