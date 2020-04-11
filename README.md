@@ -22,7 +22,7 @@ https://cloud.ibm.com/login
  
  4. If you would like IBM to contact you for any changes to services or new offerings, then check the box to accept the option to be notified by email.
 
-![](Cld_Acct_Lab_-_pic_2.png)
+
  5.Then click  Create Account to create your IBM Cloud account.
 
 
