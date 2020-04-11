@@ -77,3 +77,11 @@ The courses are mainly classifed into basics, medium , advanced.
 When you finish the course you will be cetified and receive digital badge of that learing path which can be liked with linkedin , etc .
 
 when you join or finish a course you will get  free credit points which can be linked to your ibm cloud account and used in any of your projects .
+
+Refer this links :
+
+*https://www.ibm.com/services/learning/
+
+*https://cognitiveclass.ai/courses
+ 
+ 
